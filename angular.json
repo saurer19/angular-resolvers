@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-resolver"
+    }
+  },
+  "defaultProject": "angular-resolver",
+  "cli": {
+    "analytics": false
+  }
 }
